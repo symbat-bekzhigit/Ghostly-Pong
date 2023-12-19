@@ -14,7 +14,7 @@ Ghostly Pong is a modification of Ping Pong game where, instead of playing with 
 - The first player to score 10 points wins.
 
 ***
-![](bin/img1.jpeg)
+![](bin/img1.png)
 
 **Game design:**
 
@@ -27,14 +27,14 @@ There are two separate functions for updating the screen when the player scores 
 The game will always have a background music, which will also change based on the game theme the user chooses. Moreover, the collision of the disk and the paddle, as well as the goals will be accompanied by different corresponding sounds (this can make the game a bit easier by giving some hints about the location of the disk when it disappears from screen).
 
 ***
-![](bin/img1.jpeg)
+![](bin/img2.png)
 
 **Aspects that I'm proud of:**
 
 I’m proud of the good technical decision to create different classes for each of the Disk and Paddle objects, as this allowed me to easily create new instances of them, independently of each other, later in the game and to write a separate function on a global scope called ” Disk_Paddle_Contact(paddle, disk)” which takes instances of those classes and calculates whether there was a contact. I’m also proud of the good game design and the designs of the Welcome and Game Over pages.
 
 ***
-![](bin/img1.jpeg)
+![](bin/img3.png)
 
 **Ares for future improvements:**
 
