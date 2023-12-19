@@ -2,6 +2,8 @@
 
 Ghostly Pong is a modification of Ping Pong game where, instead of playing with 1 disk, the players play with 2, and the disks will keep periodically disappearing and reappearing during the game, just like a ghost.
 
+**Link to the Game:** https://editor.p5js.org/symbatb/sketches/LKhQtZmjB
+
 **Game features:**
 
 - Each player will have a paddle and an individual score counter.
