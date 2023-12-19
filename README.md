@@ -1,1 +1,1 @@
-# Ghostly-Pong
+# Ghostly Pong
